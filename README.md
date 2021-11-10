@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @talo20
+- 👀 I’m interested in building my own webpage
+- 🌱 I’m currently learning HTML5 CSS3 JS AJAX PHP and MySQL
+- 💞️ I’m looking to collaborate on diferent projects that can help me improve m webpage by adding new features.
+- 📫 How to reach me: by private message
